@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(203, 206, 206);
+}
+
+h1 {
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4 {
+    color: red;
+}
+
+#camera {
+    width :500px;
+    height: 400px;
+    border: 1px solid rgb(red, green, blue);
+}
+
+img {
+    width: 37%;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 6px 9px 0px rgb(red, green, blue);
+}
+
+.column {
+    display: inline;
+    padding: 10px;
+}
+
+img:hover {
+    border-radius: 140px;
+}
